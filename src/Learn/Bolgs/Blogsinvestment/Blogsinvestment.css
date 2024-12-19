@@ -1,0 +1,111 @@
+/* Global Reset */
+.body{
+    font-family: 'calibri';
+}
+  
+  /* Unique InvestBlog Styling */
+  .investblog-container {
+width: 1050px;
+
+    margin: 20px auto;
+    padding: 20px;
+ margin-top: 80px;
+ 
+    font-family: 'calibri';
+  }
+  .dotted{
+   
+   margin-left: 10px;
+  
+   color: green;
+   font-size: 12px;
+   margin: 0 5px; /* Space around the dots */
+  }
+  .investblog-title {
+margin-left: 100px;
+    color: #0d64bb;
+    font-size: 26px;
+    margin-bottom: 15px;
+    
+  }
+
+  .investblog-meta {
+   
+    font-size: 16px;
+    color:black;
+    margin-bottom: 20px;
+    display: flex;
+  }
+
+  .investblog-image-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .investblog-image {
+    width: 60%;
+    height: 300px;
+  }
+  
+  .investblog-heading {
+    font-size: 20px;
+    color:  #0d64bb;
+    margin: 20px 0 10px;
+    margin-left: 100px;
+  }
+  
+  .investblog-paragraph {
+    color: black;
+    line-height: 1.6;
+    text-align: justify;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+  
+  .investblog-list {
+    margin: 10px 0;
+    padding-left: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .investblog-list li {
+    margin-bottom: 8px;
+    color:black;
+    font-size: 15px;
+    margin-left: 120px;
+  }
+
+.meta-item {
+    display: flex;
+    align-items: center; /* Aligns content vertically */
+    font-size: 14px; /* Standard text size */
+    color: #555; /* Neutral gray color for text */
+    margin-bottom: 10px; /* Space between meta items */
+   
+  }
+  .blogdate, .blogprofile {
+    font-size: 16px; /* Larger icon size for visibility */
+    color: black; /* Primary color for icons */
+    margin-right: 10px; /* Space between icon and text */
+    margin-top: 2px; /* Adds space above the icon */
+   
+  }
+  
+  .blogprofile{
+    margin-left: 30px;
+  }
+  .blogdate{
+    margin-left:100px ;
+  }
+  
+  
+  .dotted {
+    font-size: 12px; /* Smaller size for the dot */
+    color: green; /* Subtle gray color for the dot */
+    margin: 0 5px; /* Space on both sides of the dot */
+  }
+  
+  .meta-item span {
+    margin-right: 5px; /* Adds spacing between adjacent elements if needed */
+  }
+  
